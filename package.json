@@ -1,0 +1,25 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "basic node/express starting point",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-express-boilerplate"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Anthony Dickerson <deoism@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
